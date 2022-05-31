@@ -5,4 +5,4 @@
 - creating a game together
 - learning coding basics through game development
 
-https://developer.roblox.com/en-us/onboarding/intro-to-studio/1
+https://developer.roblox.com/en-us/onboarding
